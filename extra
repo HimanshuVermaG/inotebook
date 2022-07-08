@@ -1,0 +1,6 @@
+• For concurrently start 
+>1: yarn start
+>2: npx nodemon /index.js
+> we have to install "npm i concurrently"
+
+• Install DOM "npm i react-router-dom@5"
